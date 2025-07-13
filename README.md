@@ -10,5 +10,4 @@
     - https://www.youtube.com/@m1k3_sh
 
 - My SAP ABAP Guide (wip)
-    - https://flask-fire-575420336897.europe-west10.run.app
-
+    - abapguides.com
