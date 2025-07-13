@@ -10,4 +10,4 @@
     - https://www.youtube.com/@m1k3_sh
 
 - My SAP ABAP Guide (wip)
-    - abapguides.com
+    - https://abapguides.com/
